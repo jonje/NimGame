@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nim", "Nim.csproj", "{F32AAB19-193D-460B-BEB2-B9AB24A58AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlightLibrary", "SlightLibrary\SlightLibrary.csproj", "{76806384-2292-499D-B0A3-4991F42EE505}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32AAB19-193D-460B-BEB2-B9AB24A58AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32AAB19-193D-460B-BEB2-B9AB24A58AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32AAB19-193D-460B-BEB2-B9AB24A58AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32AAB19-193D-460B-BEB2-B9AB24A58AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76806384-2292-499D-B0A3-4991F42EE505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76806384-2292-499D-B0A3-4991F42EE505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76806384-2292-499D-B0A3-4991F42EE505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76806384-2292-499D-B0A3-4991F42EE505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
